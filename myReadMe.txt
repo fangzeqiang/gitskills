@@ -1,1 +1,2 @@
 GitHub add a file
+Creating a new branch is quick.
